@@ -1,3 +1,5 @@
+![Craft Power - Lab Bench Power Supply](https://github.com/CraftPwr/craftpwr.github.io/blob/main/Craft-Power-Logo-copy.png)
+
 # 🛠️ **Craft Power - Lab Bench Power Supply** 🌟
 
 Welcome to the official product page for **Craft Power**, your reliable Lab Bench Power Supply solution! 🚀
@@ -31,3 +33,5 @@ Craft Power believes in products that are sustainable and have a long operating 
 [**Learn more about Craft Power**](#) | [**GitHub Repository**](#)
 
 📢 **Stay connected with us for the latest news and updates!** 📫
+------------------------------------------------------------------
+[INSTAGRAM](https://www.instagram.com/craft_power_/) | [EMAIL](craftpower2023@gmail.com)
